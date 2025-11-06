@@ -9,3 +9,4 @@ test_*
 .ipynb*/
 data*
 **.dll
+**~
